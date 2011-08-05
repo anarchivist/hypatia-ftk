@@ -1,0 +1,5 @@
+config files and stylesheets to support import of Forensic Toolkit data into Hypatia
+originally by peter chan <pchan3@stanford.edu>
+
+- HypatiaFTKReport.xml - FTK report definition - import definition into FTK to use
+- ftk.xsl - transforms FTK's xsl:fo output
